@@ -1,0 +1,220 @@
+{
+  "id": "5b15c171e4b0023bb624f616",
+  "items": [
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "01",
+        "name": "Brazillian Jerry Fringe",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_zkjwcx.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_zkjwcx.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 890.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "02",
+        "name": "Brazillian deep curly",
+        "description": "Get Both With Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_4_jjvivc.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_4_jjvivc.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 1800.99,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "03",
+        "name": "Brazillian Bob Grade12a",
+        "description": "Get Both With Brazillian water curls Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_8_te3sqq.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_8_te3sqq.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 3800.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "04",
+        "name": "Peruvian Frontal Grade12a",
+        "description": "Get Both With BrazillianBodywave 20inch Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_5_hkqlez.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_5_hkqlez.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 4000.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "05",
+        "name": "Peruvian Bod Grade12a",
+        "description": "Get Both With Brazillian Jerry curls Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_u118c5.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_u118c5.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 2750.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "06",
+        "name": "Mongollian fringa",
+        "description": "Get Both ",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_3_dvbfzn.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_3_dvbfzn.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 1150.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "07",
+        "name": "Brazillian loose wave Grade12a",
+        "description": "Get Both Brazillian fringe Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_2_db59km.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681176/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_2_db59km.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 1200.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "08",
+        "name": "Brazillian ombre Afro",
+        "description": "Get Both Mongolia fringe Grade12a",
+        "imageObjects": [
+          {
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_3_lf4yum.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_3_lf4yum.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "38273",
+          "price": 1000.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "09",
+        "name": "Brazillian dry perm curly Grade12a",
+        "description": "Get Both Mongolia curly fringe Grade12a",
+        "imageObjects": [
+          {
+            "featured": true,
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_4_olzmqq.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.50.50_4_olzmqq.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "3019",
+          "price": 1000.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "10",
+        "name": "Brazillian Bob",
+        "description": "Beauty",
+        "imageObjects": [
+          {
+            "featured": true,
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.58.06_anbn64.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.58.06_anbn64.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "3019",
+          "price": 1300.00,
+          "discount": 0
+        }
+      }
+    },
+    {
+      "quantity": 1,
+      "product": {
+        "sku": "11",
+        "name": "Brazillian Bob",
+        "description": "Beauty",
+        "imageObjects": [
+          {
+            "featured": true,
+            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.58.06_1_zg9wgz.jpg",
+            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681177/Pretty/WhatsApp_Image_2022-03-31_at_00.58.06_1_zg9wgz.jpg"
+          }
+        ],
+        "priceSpecification": {
+          "sku": "3019",
+          "price": 1300.00,
+          "discount": 0
+        }
+      }
+    }
+  ],
+  "subTotal": 624.8,
+  "shippingTotal": 5.3,
+  "discount": 30,
+  "total": 618.9
+}
