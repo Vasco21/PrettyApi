@@ -4,24 +4,6 @@
     {
       "quantity": 1,
       "product": {
-        "sku": "01",
-        "name": "Brazillian Jerry Fringe",
-        "imageObjects": [
-          {
-            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_zkjwcx.jpg",
-            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_zkjwcx.jpg"
-          }
-        ],
-        "priceSpecification": {
-          "sku": "38273",
-          "price": 890.00,
-          "discount": 0
-        }
-      }
-    },
-    {
-      "quantity": 1,
-      "product": {
         "sku": "02",
         "name": "Brazillian deep curly",
         "description": "Get Both With Grade12a",
@@ -53,25 +35,6 @@
         "priceSpecification": {
           "sku": "38273",
           "price": 3800.00,
-          "discount": 0
-        }
-      }
-    },
-    {
-      "quantity": 1,
-      "product": {
-        "sku": "04",
-        "name": "Peruvian Frontal Grade12a",
-        "description": "Get Both With BrazillianBodywave 20inch Grade12a",
-        "imageObjects": [
-          {
-            "small": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_5_hkqlez.jpg",
-            "medium": "https://res.cloudinary.com/creative-power/image/upload/v1648681174/Pretty/WhatsApp_Image_2022-03-31_at_00.50.49_5_hkqlez.jpg"
-          }
-        ],
-        "priceSpecification": {
-          "sku": "38273",
-          "price": 4000.00,
           "discount": 0
         }
       }
